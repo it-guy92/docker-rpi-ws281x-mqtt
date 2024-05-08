@@ -320,7 +320,7 @@ def on_mqtt_connect(mqtt, userdata, flags, rc):
                         'Neopixel'
                         ],
                     'name': 'Neopixel LED Strip',
-                    'sw_version': '1.0.2',
+                    'sw_version': '1.0.3',
                     'manufacturer': 'Budgie',
                     'model': 'AAAAAA'
                     }
